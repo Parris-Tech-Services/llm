@@ -47,3 +47,9 @@ Open `index.html` in any modern browser. No install, backend, API key, or intern
 - `samples/fighter-a.json` — sample fighter
 - `samples/fighter-b.json` — sample fighter
 - `README.md` — this file
+
+## Engineering standard
+
+Engineering principles: v5.1  
+Assurance tier: 1  
+Canonical repository: https://github.com/Parris-Tech-Services/llm
